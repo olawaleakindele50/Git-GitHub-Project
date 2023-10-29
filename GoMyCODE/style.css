@@ -1,0 +1,20 @@
+body {
+    background-color: azure;
+    margin: 50px;
+    padding: 0px;
+    box-sizing: content-box;
+
+
+}
+#navbar {
+    background-color: rgb(214, 214, 193);
+   
+}
+
+.navLinks{
+    margin-bottom: 80px;
+}
+
+.image{
+    margin-bottom: 150px;
+}
